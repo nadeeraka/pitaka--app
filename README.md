@@ -1,1 +1,1 @@
-# pitaka--app
+# pitaka-app
